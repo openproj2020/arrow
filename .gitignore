@@ -2,3 +2,5 @@ Cargo.lock
 target
 rusty-tags.vi
 .history
+.DS_Store
+.DS_Store
